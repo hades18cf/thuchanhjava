@@ -1,3 +1,4 @@
+package javaapplication1;
 import java.util.Scanner;
 public class bai2 {
     private static Scanner scanner = new Scanner(System.in);
