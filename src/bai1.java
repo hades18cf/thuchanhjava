@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class App {
+public class bai1 {
     public static void main(String[] args) throws Exception {
         // doi tuong de nhap xuat
         Scanner sc = new Scanner(System.in);
